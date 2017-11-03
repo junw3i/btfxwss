@@ -75,28 +75,5 @@ Usage
     wss.stop()
 ```
 
-Your help is required
-=====================
-
-If you find any bugs, error or have feature requests, please don't hesitate to open an issue.
-Be as descriptive as possible, and I'll look into the matter as soon as I can.
-
-Looking for a REST client?
-==========================
-
-Checkout [`BitEx`](https://github.com/nlsdfnbch/bitex), a python-based Framework for connecting to a variety of Bitcoin
-exchanges, including `Bitfinex`!
-
-
-Thanks
-======
-
-A big thanks to the devs providing the `websocket-client <https://github.com/websocket-client/websocket-client>` library,
-as well ekulyk for providing the PythonPusherClient, which I used as a reference
-for the connection class. And finally, a big thanks to all the people submitting
-issues, discussing solutions and simply starring the project - you all help me
-stay excited and motivated for this project! Cheers to you.
-
-
 
 
